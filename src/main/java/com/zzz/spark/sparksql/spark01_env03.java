@@ -20,7 +20,7 @@ public class spark01_env03 {
 
         // TODO 环境的转换
         // SparkSession -> SparkContext
-        // SparkContext sc = sparkSession.sparkContext();
+         SparkContext sc = sparkSession.sparkContext();
 
         // SparkContext -> SparkSession
         // new SparkSession(new SparkContext(conf));
