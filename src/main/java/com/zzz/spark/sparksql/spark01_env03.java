@@ -25,7 +25,7 @@ public class spark01_env03 {
         // SparkContext -> SparkSession
         // new SparkSession(new SparkContext(conf));
 
-        // TODO java版本的SparkContext
+        // TODO Java版本的SparkContext
         // SparkContext sparkContext = sparkSession.sparkContext();
         // JavaSparkContext jsc = new JavaSparkContext(sparkContext);
 
